@@ -1,0 +1,7 @@
+C:\Users\ebispo\source\repos\CarregadorDeDados\CarregadorDeDados\bin\Debug\CarregadorDeDados.exe.config
+C:\Users\ebispo\source\repos\CarregadorDeDados\CarregadorDeDados\bin\Debug\CarregadorDeDados.exe
+C:\Users\ebispo\source\repos\CarregadorDeDados\CarregadorDeDados\bin\Debug\CarregadorDeDados.pdb
+C:\Users\ebispo\source\repos\CarregadorDeDados\CarregadorDeDados\obj\Debug\CarregadorDeDados.csprojAssemblyReference.cache
+C:\Users\ebispo\source\repos\CarregadorDeDados\CarregadorDeDados\obj\Debug\CarregadorDeDados.csproj.CoreCompileInputs.cache
+C:\Users\ebispo\source\repos\CarregadorDeDados\CarregadorDeDados\obj\Debug\CarregadorDeDados.exe
+C:\Users\ebispo\source\repos\CarregadorDeDados\CarregadorDeDados\obj\Debug\CarregadorDeDados.pdb
